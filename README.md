@@ -7,4 +7,4 @@ solving the Romania Map problem(getting from Arad to Bucharest) using following 
 * Unicorm Cost Search
 * A Star
 
-all of them are implemented in both graph and Tree Search mood
+all of them are implemented in both graph and Tree Search mode
