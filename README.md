@@ -2,6 +2,7 @@
 solving the Romania Map problem(getting from Arad to Bucharest) using following algorithms:
 * BFS
 * DFS
+* Depth Limited DFS
 * GreedyBFS
 * Iterative Depening
 * Unicorm Cost Search
